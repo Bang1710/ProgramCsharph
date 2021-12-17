@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\File_code_C#.exe
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\File_code_C#.deps.json
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\File_code_C#.runtimeconfig.json
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\File_code_C#.runtimeconfig.dev.json
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\File_code_C#.dll
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\ref\File_code_C#.dll
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\File_code_C#.pdb
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.AssemblyInfo.cs
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.dll
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\ref\File_code_C#.dll
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.pdb
+C:\Users\acer\Desktop\File_code_C#\obj\Debug\net5.0\File_code_C#.genruntimeconfig.cache
