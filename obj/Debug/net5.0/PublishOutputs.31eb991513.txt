@@ -1,0 +1,5 @@
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\publish\File_code_C#.exe
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\publish\File_code_C#.dll
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\publish\File_code_C#.deps.json
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\publish\File_code_C#.runtimeconfig.json
+C:\Users\acer\Desktop\File_code_C#\bin\Debug\net5.0\publish\File_code_C#.pdb
